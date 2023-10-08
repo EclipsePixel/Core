@@ -1,10 +1,10 @@
-# EclipsePixel Core
+# EclipsePixel Core ##
 
 Welcome to the EclipsePixel SB Core repository! This is the core component of our Hypixel remake project.
 
 ## Getting Started
 
-## Features
+## Features ##
 
 - **Staff Chat**
 - **Ranks**
@@ -12,7 +12,7 @@ Welcome to the EclipsePixel SB Core repository! This is the core component of ou
 - **Rules**
 - **Custom Items**
   
-## Items
+## Items ##
 
 - Ancient Staff
 - Angel Blade
